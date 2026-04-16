@@ -5,7 +5,6 @@
 
 Запуск: `python parser.py "<поисковый запрос>"`
 
-Выходной файл: `result.json`
+Выходной файл: `data.xlsx`
 
-Преобразование в xlsx и выборка производятся в notebook.ipynb
 
